@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "clerkId": "user_3JE9ECpItSwa59N0vMeVwnd7jQF",
+      "name": "Finora member",
+      "email": "",
+      "createdAt": "2026-09-12T12:14:09.797Z"
+    }
+  ],
+  "profiles": {
+    "usr_demo": {
+      "monthlyIncome": 900,
+      "monthlyExpenses": 537,
+      "currentSavings": 2000,
+      "monthlyDebt": 0,
+      "currency": "KWD",
+      "lastUpdated": "2026-09-12T15:32:33.497Z"
+    }
+  },
+  "goals": [
+    {
+      "id": "goal_car_1",
+      "userId": "usr_demo",
+      "name": "Electric Car Downpayment",
+      "category": "Car",
+      "targetAmount": 8000,
+      "currentAmount": 2000,
+      "targetDate": "2028-03-14",
+      "monthlySaving": 333.33,
+      "createdAt": "2026-09-12T15:15:25.729Z"
+    },
+    {
+      "id": "goal_emergency_1",
+      "userId": "usr_demo",
+      "name": "Emergency Buffer (6 Mo)",
+      "category": "Emergency Fund",
+      "targetAmount": 3000,
+      "currentAmount": 2000,
+      "targetDate": "2027-07-14",
+      "monthlySaving": 100,
+      "createdAt": "2026-09-12T15:15:25.729Z"
+    },
+    {
+      "id": "goal_1789226899073_xoyh",
+      "userId": "usr_demo",
+      "name": "travel",
+      "category": "Travel",
+      "targetAmount": 300,
+      "currentAmount": 50,
+      "targetDate": "2026-11-12",
+      "createdAt": "2026-09-12T15:28:19.073Z"
+    },
+    {
+      "id": "goal_1789228264363_k900",
+      "userId": "usr_demo",
+      "name": "Family Umrah Trip",
+      "category": "Travel",
+      "targetAmount": 1500,
+      "currentAmount": 450,
+      "targetDate": "2027-02-15",
+      "createdAt": "2026-09-12T15:51:04.363Z"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "exp_1789227153497_2cql",
+      "userId": "usr_demo",
+      "amount": 2,
+      "category": "Food",
+      "date": "2026-09-12",
+      "description": "زاد الخير",
+      "createdAt": "2026-09-12T15:32:33.497Z"
+    },
+    {
+      "id": "exp_1789227131330_fcl0",
+      "userId": "usr_demo",
+      "amount": 35,
+      "category": "Food",
+      "date": "2026-09-12",
+      "description": "اكلنا سي فود",
+      "createdAt": "2026-09-12T15:32:11.330Z"
+    },
+    {
+      "id": "exp_1",
+      "userId": "usr_demo",
+      "amount": 140,
+      "category": "Food",
+      "date": "2026-09-10",
+      "description": "Monthly Organic Groceries & Dining",
+      "createdAt": "2026-09-12T15:15:25.729Z"
+    },
+    {
+      "id": "exp_2",
+      "userId": "usr_demo",
+      "amount": 90,
+      "category": "Bills",
+      "date": "2026-09-07",
+      "description": "Telecom, Fiber Internet & Utilities",
+      "createdAt": "2026-09-12T15:15:25.729Z"
+    },
+    {
+      "id": "exp_3",
+      "userId": "usr_demo",
+      "amount": 85,
+      "category": "Transport",
+      "date": "2026-09-05",
+      "description": "Fuel, Tolls & Maintenance",
+      "createdAt": "2026-09-12T15:15:25.729Z"
+    },
+    {
+      "id": "exp_4",
+      "userId": "usr_demo",
+      "amount": 75,
+      "category": "Entertainment",
+      "date": "2026-09-03",
+      "description": "Weekend Activities & Streaming",
+      "createdAt": "2026-09-12T15:15:25.729Z"
+    },
+    {
+      "id": "exp_5",
+      "userId": "usr_demo",
+      "amount": 110,
+      "category": "Shopping",
+      "date": "2026-08-31",
+      "description": "Apparel & Home Essentials",
+      "createdAt": "2026-09-12T15:15:25.729Z"
+    }
+  ]
+}

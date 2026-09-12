@@ -1,0 +1,6 @@
+{
+  "name": "Finora",
+  "description": "AI-powered personal financial advisor to understand your money, plan your future, track expenses, and achieve your financial goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
